@@ -1,0 +1,16 @@
+{
+  "name": "pashtoon-chat-app",
+  "version": "1.0.0",
+  "description": "final year project related",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "SAjid khan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
